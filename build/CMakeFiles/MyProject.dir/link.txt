@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -g CMakeFiles/MyProject.dir/src/pairsum.cpp.o -o MyProject 

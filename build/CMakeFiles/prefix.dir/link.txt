@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -g CMakeFiles/prefix.dir/src/prefix.cpp.o -o prefix 

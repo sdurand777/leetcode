@@ -1,7 +1,0 @@
-/home/smith/leetcode/build/CMakeFiles/MyProject.dir
-/home/smith/leetcode/build/CMakeFiles/roman.dir
-/home/smith/leetcode/build/CMakeFiles/prefix.dir
-/home/smith/leetcode/build/CMakeFiles/test.dir
-/home/smith/leetcode/build/CMakeFiles/tmp.dir
-/home/smith/leetcode/build/CMakeFiles/edit_cache.dir
-/home/smith/leetcode/build/CMakeFiles/rebuild_cache.dir

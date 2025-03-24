@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -g CMakeFiles/roman.dir/src/roman.cpp.o -o roman 
